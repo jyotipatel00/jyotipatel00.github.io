@@ -7,7 +7,7 @@ subtitle: Financial & Risk Modelling | GenAI | LLM | Statistics & Optimization.
 profile:
   align: right
   image: prof_pic.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p><a href="mailto:jyotiinfinite72@gmail.com">jyotiinfinite72@gmail.com</a></p>
     <p>+91 8961793970</p>
